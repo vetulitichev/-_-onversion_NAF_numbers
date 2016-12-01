@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\progects_vs\laba_int\laba_int\source.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\progects_vs\laba_int\laba_int\source.cpp(99): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Laba_int.vcxproj -> D:\Progects_VS\Laba_int\Debug\Laba_int.exe
+  Laba_int.vcxproj -> D:\Progects_VS\Laba_int\Debug\Laba_int.pdb (Partial PDB)
